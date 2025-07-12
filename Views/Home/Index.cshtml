@@ -1,0 +1,77 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<html>
+    <head>
+        <style>
+    table, th, td{
+      border:1px solid black;
+    }
+   </style>
+   </head>
+
+    <body>
+    <div>
+        <h1 class="display-4">About Me</h1>
+
+        <table>
+            <thead>
+                <tr>
+                    <th>Item no.</th> &nbsp;
+                    <th> Favorite Fruits</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Mango</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>Strawberry</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Banana</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <div>
+        <form>
+
+            <br /><br />
+            <input type="text" placeholder="subject" />
+
+            <br /><br />
+            <label>street</label>
+
+            <br />
+            <input type="checkbox" id="street" name="street" value="Pedro Cinco"/>
+            <label>Pedro Cinco</label>
+
+            <input type="checkbox" id="street" name="street" value="West Berkely" />
+            <label>West Berkely</label>
+
+            <input type="checkbox" id="street" name="street" value="Bayabas" />
+            <label>Bayabas</label>
+
+            <br /><br />
+
+            <textarea placeholder="Comment. I like cats!"></textarea>
+
+            <br /><br />
+
+            <label>fav songs</label>
+            <ul>
+                <li>Look at the World</li>
+                <li>Coffee</li>
+                <li>Pied Piper</li>
+            </ul>
+
+        </form>
+    </div>
+
+    </body>
+</html>
