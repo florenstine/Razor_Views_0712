@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v8.0": {
-      "View_Appsdev/1.0.0": {
+      "VIEW_Appsdev/1.0.0": {
         "runtime": {
-          "View_Appsdev.dll": {}
+          "VIEW_Appsdev.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "View_Appsdev/1.0.0": {
+    "VIEW_Appsdev/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
