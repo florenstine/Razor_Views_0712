@@ -1,0 +1,8 @@
+C:\Codes\razorview\Razor_Views_0712\VotingEligibilityApp\bin\Debug\VotingEligibilityApp.exe.config
+C:\Codes\razorview\Razor_Views_0712\VotingEligibilityApp\bin\Debug\VotingEligibilityApp.exe
+C:\Codes\razorview\Razor_Views_0712\VotingEligibilityApp\bin\Debug\VotingEligibilityApp.pdb
+C:\Codes\razorview\Razor_Views_0712\VotingEligibilityApp\obj\Debug\VotingEligibilityApp.csproj.AssemblyReference.cache
+C:\Codes\razorview\Razor_Views_0712\VotingEligibilityApp\obj\Debug\VotingEligibilityApp.csproj.CoreCompileInputs.cache
+C:\Codes\razorview\Razor_Views_0712\VotingEligibilityApp\obj\Debug\VotingEligibilityApp.exe
+C:\Codes\razorview\Razor_Views_0712\VotingEligibilityApp\obj\Debug\VotingEligibilityApp.pdb
+C:\Codes\razorview\Razor_Views_0712\VotingEligibilityApp\obj\Debug\VotingEligibilityApp.exe.config

@@ -1,0 +1,8 @@
+C:\Codes\razorview\Razor_Views_0712\ATMReplicaApp\bin\Debug\ATMReplicaApp.exe.config
+C:\Codes\razorview\Razor_Views_0712\ATMReplicaApp\bin\Debug\ATMReplicaApp.exe
+C:\Codes\razorview\Razor_Views_0712\ATMReplicaApp\bin\Debug\ATMReplicaApp.pdb
+C:\Codes\razorview\Razor_Views_0712\ATMReplicaApp\obj\Debug\ATMReplicaApp.csproj.AssemblyReference.cache
+C:\Codes\razorview\Razor_Views_0712\ATMReplicaApp\obj\Debug\ATMReplicaApp.csproj.CoreCompileInputs.cache
+C:\Codes\razorview\Razor_Views_0712\ATMReplicaApp\obj\Debug\ATMReplicaApp.exe
+C:\Codes\razorview\Razor_Views_0712\ATMReplicaApp\obj\Debug\ATMReplicaApp.pdb
+C:\Codes\razorview\Razor_Views_0712\ATMReplicaApp\obj\Debug\ATMReplicaApp.exe.config
